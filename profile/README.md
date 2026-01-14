@@ -14,10 +14,11 @@
 ---
 
 ## 🛠️ 核心项目 (Repositories)
-- **[kaiyuanguji](https://github.com/open-guji/kaiyuanguji)**: 组织主仓库，存放核心文档与标准。
-- **[guji-toolkit](https://github.com/open-guji/guji-toolkit)**: 古籍数字化处理工具集，包含文本清洗与格式转换。
+- **[guji-toolkit-web](https://github.com/open-guji/guji-toolkit-web)**: 古籍助手网页版。古籍数字化处理工具集，包含文本清洗与格式转换。
 - **[guji-diff](https://github.com/open-guji/guji-diff)**: 针对古籍多版本（如不同刻本）的内容比对工具。
+- **[guji-toolkit](https://github.com/open-guji/guji-toolkit)**: 古籍助手桌面版。（封闭开发中）
 - **[luatex-cn](https://github.com/open-guji/luatex-cn)**: 基于 LuaTeX 的中文古籍排版引擎支持。（封闭开发中）
+- **[kaiyuanguji-web](https://github.com/open-guji/kaiyuanguji-web)**: 维护www.kaiyuanguji.com网站的代码。
 
 ---
 
