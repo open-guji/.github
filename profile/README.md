@@ -30,5 +30,5 @@
 ---
 
 ## 📬 联系我们
-- **官方网站**: [[www.kaiyuanguji.com](https://www.openguji.com/)]([https://www.kaiyuanguji.com](https://www.openguji.com/))
+- **官方网站**: [https://www.openguji.com/]
 - **意见反馈**: [点此提交反馈](https://wj.qq.com/s2/25492820/38ce/)
